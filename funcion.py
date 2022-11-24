@@ -1,0 +1,2 @@
+Variable="Hola" 
+print (Variable)
